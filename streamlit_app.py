@@ -6,7 +6,7 @@ import time
 import random
 import math
 
-# ---- Config paths (pas aan indien nodig) ----
+# ---- Config paths ----
 IMAGE_PATH = "./image_1715161701.865404.png"
 ANNOTATION_PATH = "./image_1715161701.865404.json"
 
@@ -28,7 +28,7 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-# ---- Helpers ----
+
 def format_timestamp(timestamp: str) -> str:
     # indien ISO string, toon leesbare vorm; anders toon zoals gegeven
     try:
@@ -44,10 +44,7 @@ def load_annotation(path: str):
         return json.load(f)
 
 def make_candidate_scores(threshold: float):
-    """
-    Bouw de discrete kandidaatwaarden: threshold, threshold+0.1, ..., 0.9
-    Returnt een lijst met floats (bijv. [0.7,0.8,0.9]) of [] als threshold>0.9
-    """
+ 
     # stap van 0.1; rond af naar 1 decimaal
     first = math.ceil(threshold * 10) / 10.0
     candidates = []
