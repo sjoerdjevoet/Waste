@@ -7,8 +7,8 @@ import random
 import math
 
 # ---- Config paths (pas aan indien nodig) ----
-IMAGE_PATH = "./img/image_1715161701.865404.png"
-ANNOTATION_PATH = "./annotations/image_1715161701.865404.json"
+IMAGE_PATH = "./image_1715161701.865404.png"
+ANNOTATION_PATH = "./image_1715161701.865404.json"
 
 # ---- Vaste metadata (blijft altijd gelijk) ----
 metadata = {
