@@ -1,0 +1,231 @@
+{
+  "version": "5.2.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "PCB",
+      "points": [
+        [
+          383.61111111111114,
+          231.11111111111111
+        ],
+        [
+          442.87037037037044,
+          350.55555555555554
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PCB",
+      "points": [
+        [
+          600.2777777777778,
+          242.22222222222223
+        ],
+        [
+          758.6111111111112,
+          452.4074074074074
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PCB",
+      "points": [
+        [
+          91.9444444444445,
+          82.03703703703705
+        ],
+        [
+          289.16666666666674,
+          285.7407407407407
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PCB",
+      "points": [
+        [
+          83.61111111111119,
+          688.5185185185185
+        ],
+        [
+          245.6481481481482,
+          864.4444444444445
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PCB",
+      "points": [
+        [
+          864.1666666666667,
+          402.4074074074074
+        ],
+        [
+          1121.574074074074,
+          575.5555555555555
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PCB",
+      "points": [
+        [
+          795.6481481481482,
+          719.0740740740741
+        ],
+        [
+          976.2037037037038,
+          872.7777777777778
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PCB",
+      "points": [
+        [
+          719.7222222222223,
+          35.740740740740755
+        ],
+        [
+          860.462962962963,
+          157.03703703703707
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PCB",
+      "points": [
+        [
+          1052.1296296296296,
+          71.85185185185188
+        ],
+        [
+          1234.537037037037,
+          241.2962962962963
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "CAPACITOR",
+      "points": [
+        [
+          900.2777777777778,
+          185.74074074074076
+        ],
+        [
+          1018.7962962962964,
+          310.7407407407407
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "ALUMINIUM",
+      "points": [
+        [
+          481.75925925925935,
+          60.740740740740755
+        ],
+        [
+          612.3148148148149,
+          224.62962962962965
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "ALUMINIUM",
+      "points": [
+        [
+          218.79629629629636,
+          445.92592592592587
+        ],
+        [
+          315.09259259259267,
+          551.4814814814815
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "ALUMINIUM",
+      "points": [
+        [
+          531.7592592592594,
+          591.2962962962963
+        ],
+        [
+          626.2037037037037,
+          686.6666666666666
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "ALUMINIUM",
+      "points": [
+        [
+          1100.2777777777776,
+          674.6296296296297
+        ],
+        [
+          1203.9814814814813,
+          772.7777777777778
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "./img/image_1715161701.865404.png",
+  "imageData": null,
+  "imageHeight": 915,
+  "imageWidth": 1320
+}
